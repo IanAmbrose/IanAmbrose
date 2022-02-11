@@ -1,26 +1,5 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ian Ambrose</h1>
-<h3 align="center">Cyber Security Student | Network Security | Backend Development </h3>
-<p align="center">
-</p>
-</p>
-<br  />
-
-<img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
-
-
-
-```diff
-User: Ian 🔮.
-
-+ Studying Cyber Security, Edinburgh Napier
-
-! 21 years old
-
-# 📖 Backend, Security and Networking
-```
-
-
----
+![header_](https://user-images.githubusercontent.com/74079455/153599388-bc78e498-f8a4-4fc4-bb25-ceaefd2321f2.png)
+<h3 align="left">Cyber Security Student | Network Security | Backend Development </h3>
 
 
 ### Languages and Tools:
