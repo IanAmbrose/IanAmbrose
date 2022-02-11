@@ -1,11 +1,7 @@
 
-<br  />
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74079455/153514972-69f51ee1-611b-4706-b8cf-bb6929a53a23.png" height="200"/>
-</p>
-<hr>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ian Ambrose</h1>
-<h3 align="center">Cyber Security Student | DevOps Engineer | Data Analysis Enthusiast</h3>
+<h3 align="center">Cyber Security Student | Network Security | Backend Development </h3>
 <p align="center">
 </p>
 </p>
@@ -20,11 +16,9 @@ User: Ian 🔮.
 
 + Studying Cyber Security, Edinburgh Napier
 
-+ DevOps Engineer, ArcTaurus
-
 ! 21 years old
 
-# 📖 Programming, computer science
+# 📖 Backend, Security and Networking
 ```
 ------
 
@@ -62,9 +56,9 @@ User: Ian 🔮.
 <h3><b> Connect With Me</b></h3>
 </div>
 <p align="center">
-<a href="https://codepen.io/rock12231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rock12231" height="30" width="40" /></a>
-<a href="https://twitter.com/rock12231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rock12231" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rock1223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rock1223" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rock1223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rock1223" height="30" width="40" /></a>
+  <a href="https://immersivelabs.online/profile/ianambrose" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74079455/153519276-f48c0c33-922c-4354-bb20-3cecbb44471e.png" alt="rock1223" height="30" width="40" /></a>
+<a href="https://twitter.com/IanWAmbrose" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rock12231" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ian-ambrose-3b988b231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rock1223" height="30" width="40" /></a>
+
 </p>
 <br>
