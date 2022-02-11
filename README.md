@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ian Ambrose</h1>
 <h3 align="center">Cyber Security Student | Network Security | Backend Development </h3>
 <p align="center">
