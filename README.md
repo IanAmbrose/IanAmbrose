@@ -3,7 +3,7 @@
 
 ### About me:
 
-•  <a href="https://arctaurus.com/">SecDevOps for Arctaurus</a>
+• SecDevOps at <a href="https://arctaurus.com/">Arctaurus</a>
 • Fourth Year student, currently studing towards obtaining a BEng(Hons) degree in Cyber Security & Forensics.<br  />
 • Proficient with functional programming, object oriented design patterns and data structures!
 
