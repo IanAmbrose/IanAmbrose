@@ -4,7 +4,7 @@
 ### About me:
 
 • SecDevOps at <a href="https://arctaurus.com/">ArcTaurus</a><br  />
-• Fourth Year student, currently studing towards obtaining a BEng(Hons) degree in Cyber Security & Forensics.<br  />
+• BEng(Hons) Cyber Security & Forensics.<br  />
 
 
 ---
