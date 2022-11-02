@@ -1,10 +1,11 @@
 ![header_](https://user-images.githubusercontent.com/74079455/153599388-bc78e498-f8a4-4fc4-bb25-ceaefd2321f2.png)
-<h3 align="center">Cyber Security | Cloud Computing | Backend Development </h3>
+<h3 align="center">Cyber Security | AWS Cloud Solutions | Backend Development </h3>
 
 ### About me:
 
 • DevSecOps at <a href="https://arctaurus.com/">ArcTaurus</a><br  />
-• BEng(Hons)Cyber Security & Forensics<br  />
+• BEng(Hons) Cyber Security & Forensics<br  />
+
 
 
 ---
