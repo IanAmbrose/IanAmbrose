@@ -4,7 +4,7 @@
 ### About me:
 
 • DevSecOps at <a href="https://arctaurus.com/">ArcTaurus</a><br  />
-• BEng(Hons) Cyber Security & Forensics.<br  />
+• BEng(Hons)Cyber Security & Forensics<br  />
 
 
 ---
