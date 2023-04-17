@@ -3,7 +3,7 @@
 
 ### About me:
 
-• DevSecOps at <a href="https://arctaurus.com/">ArcTaurus</a><br  />
+• Junior DevSecOps at <a href="https://slicelife.com/">Slice</a><br  />
 • BEng(Hons) Cyber Security & Forensics<br  />
 
 
